@@ -11,7 +11,10 @@ res=0
 
 ###I/O TEST ###
 out=$(seq 5 | ./plus)
-[ "${out}" = 15 ] || ng ${LINENO}
+[ "${out}" = 14 ] || ng ${LINENO} && exit $res
+
+#out=$(seq 5 | ./multi)
+#[ "${out}" = 120 ] || ng ${LINNO} && exit $res
 
 [ "$res" = 0 ] && echo OK
 exit $res
