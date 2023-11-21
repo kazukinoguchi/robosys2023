@@ -7,7 +7,7 @@
 [![test](https://github.com/kazukinoguchi/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/kazukinoguchi/robosys2023/actions/workflows/test.yml)
 
 ## 必要なソフトウェア
-*Python
+* Python
  * テスト済み: 3.7 ~ 3.10
 
 ## テスト環境
