@@ -1,6 +1,9 @@
 # plusコマンド
 標準入力で読み込んだ数値を足す
 
+# multiコマンド
+標準入力で読み込んだ数値をかける
+
 [![test](https://github.com/kazukinoguchi/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/kazukinoguchi/robosys2023/actions/workflows/test.yml)
 
 ## 必要なソフトウェア
