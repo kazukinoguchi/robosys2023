@@ -1,0 +1,14 @@
+#!/usr/bin/python3
+# SPDX-FileCopyRightText: 2023 Kazuki Noguchi
+# SPDX-License-Identifire: BSD-3-Clause
+
+import sys
+
+ans = 1
+for line in sys.stdin:
+    try:
+        ans *= int(line)
+    except:
+        ans *= float(line)
+
+print(ans)
