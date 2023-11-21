@@ -11,12 +11,12 @@ res=0
 
 ###I/O TEST ###
 out=$(seq 5 | ./plus)
-[ "${out}" = 15 ] || ng ${LINENO}
-<<COMENTOUT
+[ "${out}" = 14 ] || ng ${LINENO}
+
 if [ res -eq 1 ]; then
 	exit $res
 fi
-
+<<COMENTOUT
 out=$(seq 5 | ./multi)
 [ "${out}" = 15 ] || ng ${LINENO}
 if [ res -eq 1 ]; then
