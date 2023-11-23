@@ -14,19 +14,19 @@
 * Ubuntu-20.04
 
 ## インストール方法
-* git clone https://github.com/kazukinoguchi/robosys2023
+`$git clone https://github.com/kazukinoguchi/robosys2023`
 
 ## 使用例
 ### plusコマンド
 #### 入力
-seq 5 | ./plus
+`$seq 5 | ./plus`
 #### 出力
-15
+`15`
 ### multiコマンド
 #### 入力
-seq 5 | ./multi
+`$seq 5 | ./multi`
 #### 出力
-120
+`120`
 
 ## 著作権・ライセンス表示
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
