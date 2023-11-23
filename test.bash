@@ -27,6 +27,7 @@ for i in "${!numbers_array[@]}"; do
         *)
             echo "その他の要素に対する処理: ${numbers_array[$i]}"
             # その他の要素に対するデフォルトの処理を記述
+			ng ${LINENO}
             ;;
     esac
 done
