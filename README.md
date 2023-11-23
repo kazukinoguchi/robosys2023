@@ -3,6 +3,7 @@
 [![test](https://github.com/kazukinoguchi/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/kazukinoguchi/robosys2023/actions/workflows/test.yml)
 
 * 標準入力で読み込んだ数値を足した結果を出力
+* 標準入力で読み込んだ数値の平均値を出力
 * 標準入力で読み込んだ数値をかけた結果を出力
 
 ## 必要なソフトウェア

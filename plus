@@ -6,7 +6,9 @@ import sys
 
 ans1 = 0
 ans2 = 1
+i = 0
 for line in sys.stdin:
+    i += 1
     try:
         ans1 += int(line)
         ans2 *= int(line)
@@ -15,4 +17,5 @@ for line in sys.stdin:
         ans2 += float(line)
 
 print(ans1)
+print(ans1/int(i))
 print(ans2)
