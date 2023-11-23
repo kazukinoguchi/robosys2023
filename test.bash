@@ -24,7 +24,7 @@ for i in "${!numbers_array[@]}"; do
             # 2番目の要素に対する処理を記述
 			[ "${numbers_array[$i]}" = 3.0 ] || ng ${LINENO}
             ;;
-		2)
+	2)
             echo "3番目の要素に対する処理: ${numbers_array[$i]}"
             # 2番目の要素に対する処理を記述
 			[ "${numbers_array[$i]}" = 120 ] || ng ${LINENO}
