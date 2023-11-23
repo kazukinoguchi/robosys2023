@@ -11,10 +11,25 @@ res=0
 
 ###I/O TEST ###
 out=$(seq 5 | ./plus)
-[ "${out}" = 15 ] || ng ${LINENO}
-
-out=$(seq 5 | ./multi)
-[ "${out}" = 120 ] || ng ${LINENO}
+mapfile -t numbers_array <<<"$out"
+for i in "${!numbers_array[@]}"; do
+    case $i in
+        0)
+            echo "最初の要素に対する処理: ${numbers_array[$i]}"
+            # 最初の要素に対する処理を記述
+			[ "${numbers_array[$i]}" = 15 ] || ng ${LINENO}
+            ;;
+        1)
+            echo "2番目の要素に対する処理: ${numbers_array[$i]}"
+            # 2番目の要素に対する処理を記述
+			[ "${numbers_array[$i]}" = 120 ] || ng ${LINENO}
+            ;;
+        *)
+            echo "その他の要素に対する処理: ${numbers_array[$i]}"
+            # その他の要素に対するデフォルトの処理を記述
+            ;;
+    esac
+done
 
 [ "$res" = 0 ] && echo OK
 exit $res
