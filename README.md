@@ -31,5 +31,6 @@
 ## Special Thanks
 * 上田隆一教授
 * TAの皆様方
+* chatGPT
 * 野崎真尭
 * 坪内優輝
