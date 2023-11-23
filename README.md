@@ -15,15 +15,10 @@
 `$git clone https://github.com/kazukinoguchi/robosys2023`
 
 ## 使用例
-### plusコマンド
-#### 入力
+### 入力
 `$seq 5 | ./plus`
-#### 出力
+### 出力
 `15`
-### multiコマンド
-#### 入力
-`$seq 5 | ./multi`
-#### 出力
 `120`
 
 ## 著作権・ライセンス表示
