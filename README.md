@@ -14,7 +14,8 @@
 * Ubuntu-20.04
 
 ## インストール方法
-`$git clone https://github.com/kazukinoguchi/robosys2023`
+`$git clone https://github.com/kazukinoguchi/robosys2023`  
+`$cd robosys2023`
 
 ## 使用例
 ### 入力
