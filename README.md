@@ -16,9 +16,9 @@
 
 ## インストール方法
 1. このリポジトリを以下のコマンドでダウンロードする  
-`$git clone https://github.com/kazukinoguchi/robosys2023
-1. robosys2023に移動する  `  
-`$cd robosys2023  
+`$git clone https://github.com/kazukinoguchi/robosys2023`
+1. robosys2023に移動する  
+`$cd robosys2023`  
 1. 実行権限を付与する  
 `$chmod +x ./plus`
 
