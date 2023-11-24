@@ -1,4 +1,7 @@
-# Σ・平均・Πコマンド
+#robosys2023
+* このレポジトリは、bashにて使用できるコマンドを追加するものです
+
+## Σ・平均・Πコマンド
 
 [![test](https://github.com/kazukinoguchi/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/kazukinoguchi/robosys2023/actions/workflows/test.yml)
 
