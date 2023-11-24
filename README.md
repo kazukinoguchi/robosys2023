@@ -20,7 +20,7 @@
 ### 入力
 `robosys2023$ seq 5 | ./plus`
 ### 出力
-`15`
+`15`  
 `3.0`  
 `120`
 
@@ -32,7 +32,7 @@
 * © 2023 Kazuki Noguchi
 
 ## Special Thanks
-* 上田隆一教授
+* 上田隆一先生
 * TAの皆様方
 * chatGPT
 * 野崎真尭
