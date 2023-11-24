@@ -13,7 +13,7 @@
 
 ## インストール方法
 `$git clone https://github.com/kazukinoguchi/robosys2023`  
-`$cd robosys2023`
+`$cd robosys2023  
 `$chmod +x ./plus`
 
 ## 使用例
