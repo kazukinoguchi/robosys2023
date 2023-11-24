@@ -19,7 +19,7 @@
 `$cd robosys2023`    
 `$chmod +x ./plus`
 
-## 使用例
+## 実行例
 ### 入力
 `robosys2023$ seq 5 | ./plus`
 ### 出力
