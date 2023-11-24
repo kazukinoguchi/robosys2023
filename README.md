@@ -1,10 +1,8 @@
-# plusコマンド
+# Σ・平均・Πコマンド
 
 [![test](https://github.com/kazukinoguchi/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/kazukinoguchi/robosys2023/actions/workflows/test.yml)
 
-* 標準入力で読み込んだ数値を足した結果を出力
-* 標準入力で読み込んだ数値の平均値を出力
-* 標準入力で読み込んだ数値をかけた結果を出力
+* 標準入力で読み込んだ数値を足した数値、平均値、かけた数値を順番に出力する
 
 ## 必要なソフトウェア
 * Python
@@ -16,6 +14,7 @@
 ## インストール方法
 `$git clone https://github.com/kazukinoguchi/robosys2023`  
 `$cd robosys2023`
+`$chmod +x ./plus`
 
 ## 使用例
 ### 入力
