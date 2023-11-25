@@ -5,7 +5,7 @@
 
 [![test](https://github.com/kazukinoguchi/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/kazukinoguchi/robosys2023/actions/workflows/test.yml)
 
-* 標準入力で読み込んだ数値を足した数値、平均値、かけた数値を順番に出力する
+* 標準入力で読み込んだ数値を足した数値、平均値、かけた数値を順番に出力します
 
 ## 必要なソフトウェア
 * Python
@@ -15,11 +15,11 @@
 * Ubuntu-20.04
 
 ## インストール方法
-1. このリポジトリを以下のコマンドでダウンロードする  
+1. このリポジトリを以下のコマンドでダウンロードします  
 `$git clone https://github.com/kazukinoguchi/robosys2023`
-1. robosys2023に移動する  
+1. robosys2023に移動します  
 `$cd robosys2023`  
-1. 実行権限を付与する  
+1. 実行権限を付与します  
 `$chmod +x ./plus`
 
 ## 実行例
