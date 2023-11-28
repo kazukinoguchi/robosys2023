@@ -34,10 +34,10 @@
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 * このパッケージは，Ryuichi Ueda由来のコード（© 2022 Ryuichi Ueda）を利用しています．
 * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身が追記し、自身の著作としたものです．
-    * https://ryuichiueda.github.io/my_slides/robosys_2022/lesson1.html#/
-    * https://ryuichiueda.github.io/my_slides/robosys_2022/lesson2.html#/
-    * https://ryuichiueda.github.io/my_slides/robosys_2022/lesson3.html#/
     * https://ryuichiueda.github.io/my_slides/robosys_2022/lesson4.html#/
+    * https://ryuichiueda.github.io/my_slides/robosys_2022/lesson5.html#/
+    * https://ryuichiueda.github.io/my_slides/robosys_2022/lesson6.html#/
+    * https://ryuichiueda.github.io/my_slides/robosys_2022/lesson7.html#/
 * © 2023 Kazuki Noguchi
 
 ## Special Thanks
