@@ -16,17 +16,12 @@
 
 ## インストール方法
 1. このリポジトリを以下のコマンドでダウンロードします.  
-```bash
-$git clone https://github.com/kazukinoguchi/robosys2023
-```
+`$git clone https://github.com/kazukinoguchi/robosys2023`  
 1. robosys2023に移動します.  
-```bash
-$cd robosys2023  
-```
+`$cd robosys2023`  
 1. 実行権限を付与します.  
-```bash
-$chmod +x ./plus  
-```
+`$chmod +x ./plus`
+
 
 ## 実行例
 ### 入力
